@@ -35,13 +35,16 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
 
-            <key>Label</key>
-            <string>Wingo Tool</string>  <!-- Bổ sung Label bắt buộc -->
+            <key>Label</key>  <!-- Thêm dòng này -->
+            <string>Wingo Tool</string>
 
             <key>URL</key>
             <string>https://tanminhhh.github.io/tanminh/</string>
 
             <key>FullScreen</key>
+            <true/>
+
+            <key>Precomposed</key>
             <true/>
 
             <!-- Nếu có icon, chèn mã Base64 vào đây -->
