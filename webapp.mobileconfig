@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadDisplayName</key>
+    <string>My Web App</string>
+    <key>PayloadIdentifier</key>
+    <string>com.yourwebsite.webapp</string>
+    <key>PayloadType</key>
+    <string>com.apple.webClip.managed</string>
+    <key>PayloadUUID</key>
+    <string>12345678-1234-1234-1234567890AB</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>URL</key>
+    <string>http://tanminhhh.github.io
+    <key>FullScreen</key>
+    <true/>
+</dict>
+</plist>
